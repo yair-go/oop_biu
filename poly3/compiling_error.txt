@@ -1,0 +1,11 @@
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0x43): undefined reference to `Commpany::Commpany()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0x4f): undefined reference to `Commpany::init_com()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0x54): undefined reference to `Date::getDate()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0xa7): undefined reference to `Commpany::find(int)'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0xc4): undefined reference to `Commpany::find(int)'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0xde): undefined reference to `Date::getDate()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0xe6): undefined reference to `Date::update_date()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0xfb): undefined reference to `Commpany::init_com()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0x126): undefined reference to `Commpany::~Commpany()'
+C:\Users\ygoldsht\AppData\Local\Temp\cc0qWJwL.o:main.cpp:(.text+0x13e): undefined reference to `Commpany::~Commpany()'
+collect2: ld returned 1 exit status

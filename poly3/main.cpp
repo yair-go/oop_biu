@@ -10,7 +10,7 @@ void err_msg()
 
 /***********************************************************
 /*Program name: polymorphism3
-/*The operation: describe a connecting company 
+/*The operation: describe a connecting company
 ************************************************************/
 int main()
 {
@@ -34,7 +34,7 @@ int main()
      	case 2:
          	if (Date::getDate()->update_date()) wow.init_com();
          	break;
-     	case 4: 
+     	case 4:
          	break;
      	default:
         	err_msg();
